@@ -1,0 +1,11 @@
+.form{
+    display: flex;
+    gap: 10px;
+    
+   
+}
+
+.container h1{
+    margin: 50px;
+}
+
